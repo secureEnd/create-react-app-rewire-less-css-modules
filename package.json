@@ -1,0 +1,20 @@
+{
+  "name": "create-react-app-rewire-less-css-modules",
+  "version": "1.0.8",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5"
+  },
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0"
+  },
+  "peerDependencies": {
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5"
+  }
+}
